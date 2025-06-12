@@ -4,17 +4,12 @@ Aplicativo de clima desenvolvido em Swift utilizando UIKit e a API OpenWeather. 
 
 > ⚠️ **Aviso:** Este projeto foi criado exclusivamente para fins de estudo e aprendizado em desenvolvimento iOS. Ele foi baseado no repositório original [weather-forecast-app](https://github.com/Bullas/weather-forecast-app) de [Karol Attekita](https://github.com/Bullas), com adaptações pessoais para reforço do conhecimento.
 
-
 ## 📚 Índice
 
 - [Sobre](#sobre)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## 🧠 Sobre
 
